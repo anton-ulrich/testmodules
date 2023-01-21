@@ -1,4 +1,4 @@
-// Пакет datafile пердназначен для чтения данных из файлов
+// Пакет testmodules пердназначен для тестов работы модулей GO
 package testmodules
 
 import (
